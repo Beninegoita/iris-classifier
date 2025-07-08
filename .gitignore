@@ -45,5 +45,5 @@ venv/
 .pyre/
 
 # Test & runtime artefacts
-outputs/
+
 .DS_Store
