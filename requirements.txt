@@ -3,4 +3,4 @@ matplotlib>=3.8
 seaborn>=0.13
 jupyter>=1.0
 pytest>=8.0
-joblib>=1.3      # explicit; scikit‑learn depends on it anyway
+joblib>=1.3
